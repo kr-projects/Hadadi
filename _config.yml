@@ -13,14 +13,14 @@ safe: true
 # edit here to achieve your personal greatness
 url: /
 baseurl: /
-title: Saeed Hadadi University - Advanced Physics Lab
+title: Saeed's Quantum Information Group
 author: Saeed Hadadi
-description: Advanced Physics Lab
+description: Saeed's Quantum Information Group
 avatar: profile.png
-email: Saeed@hadadi.edu
+email: info@ssqig.com
 #github: jekyller/sustain # username
 #twitter: username
-linkedin: username
+#linkedin: username
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
