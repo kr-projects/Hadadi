@@ -9,10 +9,14 @@ permalink: /publications/
 		<ul>
 	
 <span class="style"><span style="font-weight: 700;">2020</span><br>
+	
+	                         <li>
+                                    <p class="paragraph_style_4" align="justify">
+                                        <font size="2"> S. Haseli, S. Haddadi, M. R. Pourkarimi, "Entropic uncertainty lower bound for a two-qubit system coupled to a spin chain with Dzyaloshinskii–Moriya interaction",  <a href="https://doi.org/10.1007/s11082-020-02589-x" target="_blank">Opt. Quant. Electron. 52, 465 (2020).</a> </font></p></li>
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
-                                        <font size="2"> A. Kumar, S. Haddadi, M. R. Pourkarimi, B. K. Behera, P. K. Panigrahi, "Experimental realization of controlled quantum teleportation of arbitrary qubit states via cluster states", Sci. Rep. 10, 13608 (2020). https://doi.org/10.1038/s41598-020-70446-8 </font></p></li>
+                                        <font size="2"> A. Kumar, S. Haddadi, M. R. Pourkarimi, B. K. Behera, P. K. Panigrahi, "Experimental realization of controlled quantum teleportation of arbitrary qubit states via cluster states", Sci. Rep. 10, 13608 (2020). <a href="https://doi.org/10.1038/s41598-020-70446-8/" target="_blank">https://doi.org/10.1038/s41598-020-70446-8</a> </font></p></li>
 
                                 <li>
                                     <p class="paragraph_style_4" align="justify">
@@ -57,7 +61,7 @@ permalink: /publications/
 					
 							                                <li>
                                     <p class="paragraph_style_4" align="justify">				
-                                        <font size="2">Saeed Haddadi, Mohammad Bohloul, "A brief overview of bipartite and multipartite entanglement measures", Int. J. Theor. Phys. 57, 3912 (2018). https://doi.org/10.1007/s10773-018-3903-3</font></p></li>					
+                                        <font size="2">S. Haddadi, M. Bohloul, "A brief overview of bipartite and multipartite entanglement measures", Int. J. Theor. Phys. 57, 3912 (2018). https://doi.org/10.1007/s10773-018-3903-3</font></p></li>					
 					
 					
 
@@ -69,12 +73,9 @@ permalink: /publications/
 					
 												                                <li>
                                     <p class="paragraph_style_4" align="justify">				
-                                        <font size="2">S. Haddadi, "Comment on “Multipartite Entanglement in Four-qubit Graph States”", Int. J. Theor. Phys. 56, 2811 (2017). https://doi.org/10.1007/s10773-017-3447-y</font></p></li>					
+                                        <font size="2">S. Haddadi, "Comment on Multipartite Entanglement in Four-qubit Graph States", Int. J. Theor. Phys. 56, 2811 (2017). https://doi.org/10.1007/s10773-017-3447-y</font></p></li>					
 					
 					
-
-
-</ul>
 
 
 

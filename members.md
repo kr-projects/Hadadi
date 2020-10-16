@@ -6,7 +6,7 @@ permalink: /members/
 <section id="about">
 	<div class="container">
                   <div class="avatar">
-                    <img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
+                    <img class="img-circle" src="{{ site.baseurl }}static/{{ site.avatar }}" alt="Responsive image" width="200" height="200">
                   </div>
             Lorem ipsum dolor sit amet, perfecto signiferumque cum at, fastidii patrioque eu eum, epicuri interesset ad usu. Vix eu accumsan volutpat postulant. Inermis honestatis intellegebat cu duo, audire antiopam dissentiunt pro in, meis illud pericula vis et. His ad tation verterem, nam eu option facilis. Id his postulant gubergren, quo eu nominavi luptatum, te sea feugiat quaestio.     
             Vim oportere vituperatoribus cu, pri esse veri consulatu ea, nonumes tacimates urbanitas his ex. Ex nam error fabellas, tempor singulis similique ut quo. Ex ullum error platonem duo, sumo ullum has cu, brute erant eos eu. Vis tempor audiam appellantur te, et quo iisque tacimates partiendo. Impetus tractatos deterruisset est eu, his vocibus postulant interpretaris in.            
@@ -16,7 +16,7 @@ permalink: /members/
                 </div>
 	<div class="container">
                   <div class="avatar">
-                    <img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
+                    <img class="img-circle" src="{{ site.baseurl }}static/member2.jpg" alt="Responsive image" width="200" height="200">
                   </div>
             Lorem ipsum dolor sit amet, perfecto signiferumque cum at, fastidii patrioque eu eum, epicuri interesset ad usu. Vix eu accumsan volutpat postulant. Inermis honestatis intellegebat cu duo, audire antiopam dissentiunt pro in, meis illud pericula vis et. His ad tation verterem, nam eu option facilis. Id his postulant gubergren, quo eu nominavi luptatum, te sea feugiat quaestio.     
             Vim oportere vituperatoribus cu, pri esse veri consulatu ea, nonumes tacimates urbanitas his ex. Ex nam error fabellas, tempor singulis similique ut quo. Ex ullum error platonem duo, sumo ullum has cu, brute erant eos eu. Vis tempor audiam appellantur te, et quo iisque tacimates partiendo. Impetus tractatos deterruisset est eu, his vocibus postulant interpretaris in.            
